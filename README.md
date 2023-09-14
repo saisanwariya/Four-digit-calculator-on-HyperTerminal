@@ -1,13 +1,5 @@
 # HyperTerminal Calculator
 
-**Academic Integrity Statement:**
-
-Please note that all work included in this project is the original work of the author, and any external sources or references have been properly cited and credited. It is strictly prohibited to copy, reproduce, or use any part of this work without permission from the author.
-
-If you choose to use any part of this work as a reference or resource, you are responsible for ensuring that you do not plagiarize or violate any academic integrity policies or guidelines. The author of this work cannot be held liable for any legal or academic consequences resulting from the misuse or misappropriation of this work.
-
-Any unauthorized copying or use of this work may result in serious consequences, including but not limited to academic penalties, legal action, and damage to personal and professional reputation. Therefore, please use this work only as a reference and always ensure that you properly cite and attribute any sources or references used.
-
 ## Overview
 
 This project involves creating an elementary calculator program that runs on the HyperTerminal connected to the HCS12 board. The calculator program can perform basic arithmetic operations on positive decimal integers and display the results.
@@ -74,3 +66,11 @@ To run the program on the CodeWarrior HSC12 board, follow these steps:
 - Make sure to follow the provided rules and guidelines for input and operation.
 
 - The program is designed to start at address $3100, and data starts at address $3000.
+
+# Academic Integrity Statement:
+
+Please note that all work included in this project is the original work of the author, and any external sources or references have been properly cited and credited. It is strictly prohibited to copy, reproduce, or use any part of this work without permission from the author.
+
+If you choose to use any part of this work as a reference or resource, you are responsible for ensuring that you do not plagiarize or violate any academic integrity policies or guidelines. The author of this work cannot be held liable for any legal or academic consequences resulting from the misuse or misappropriation of this work.
+
+Any unauthorized copying or use of this work may result in serious consequences, including but not limited to academic penalties, legal action, and damage to personal and professional reputation. Therefore, please use this work only as a reference and always ensure that you properly cite and attribute any sources or references used.

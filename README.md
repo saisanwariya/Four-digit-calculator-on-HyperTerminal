@@ -74,9 +74,3 @@ To run the program on the CodeWarrior HSC12 board, follow these steps:
 - Make sure to follow the provided rules and guidelines for input and operation.
 
 - The program is designed to start at address $3100, and data starts at address $3000.
-
-- Comprehensive comments are included in the 'main.asm' file to help you understand the program's functionality and logic.
-
-- Ensure that you copy your 'main.asm' file to 'cmpen472hw7_YourLastName.asm' and submit it accordingly.
-
-Congratulations on completing CMPEN 472 Homework 7! If you have any questions or encounter any issues, please refer to the provided documentation and comments in the code.
